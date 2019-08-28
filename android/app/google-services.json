@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455727928769",
+    "firebase_url": "https://crudflutter-54653.firebaseio.com",
+    "project_id": "crudflutter-54653",
+    "storage_bucket": "crudflutter-54653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455727928769:android:f33edf6a689d18b1",
+        "android_client_info": {
+          "package_name": "com.reza.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455727928769-3372ldecmlig60f3e07dgj5bak8d96kd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reza.task",
+            "certificate_hash": "5f06af1a85948daeea154a1c8dc2d5ad09dba3a0"
+          }
+        },
+        {
+          "client_id": "455727928769-u8sl35vd4ilpff4e270ej6tvbddscens.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNRbKRmiygpTHPXwWKLtvL65la-LLszPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455727928769-u8sl35vd4ilpff4e270ej6tvbddscens.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
